@@ -1,0 +1,36 @@
+# Desafio de Lógica - Amigo Secreto 🎁
+
+Este projeto tem como objetivo principal fortalecer as habilidades em **lógica de programação** utilizando JavaScript puro. A proposta consiste na criação de um sistema simples para organizar um sorteio de **Amigo Secreto**.
+
+## 💡 Sobre o Projeto
+
+O usuário pode adicionar nomes de participantes em uma lista, visualizar os nomes adicionados e, ao final, realizar o sorteio de um nome de forma aleatória. A interface é interativa e permite o uso direto no navegador.
+
+## 🚀 Funcionalidades
+
+- Adição de participantes à lista.
+- Validação de entrada para evitar nomes vazios.
+- Exibição dos nomes adicionados em tempo real.
+- Sorteio aleatório de um nome da lista.
+- Limpeza automática do campo de entrada após adicionar.
+
+## 🎯 Objetivo Educacional
+
+Este projeto foi desenvolvido como um exercício prático de lógica com JavaScript. Ele estimula o uso de arrays, manipulação de elementos HTML via DOM, validações básicas e geração de números aleatórios.
+
+## 🛠 Tecnologias Utilizadas
+
+- HTML para estruturação da página.
+- CSS para estilização básica da interface.
+- JavaScript para implementação da lógica de funcionamento.
+
+## 🔄 Possíveis Melhorias Futuras
+
+- Garantir que cada participante sorteie outra pessoa (sem repetições ou auto-sorteio).
+- Exibir o resultado completo do sorteio para todos os participantes.
+- Adicionar feedback visual com animações.
+- Armazenar dados no `localStorage` para manter a lista após recarregar a página.
+
+---
+
+> Ideal para quem está iniciando no mundo da programação e quer treinar a lógica de forma prática e divertida!
